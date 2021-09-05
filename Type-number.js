@@ -15,7 +15,6 @@ const pontoFlutuanteSemZero = .5;
 const novaOperacao = primeiroNumero / numeroPontoFlutuante;
 //console.log(novaOperacao);
 
-
 // NaN -> Not a Number 
 const alura = "Alura";
 console.log(alura * primeiroNumero)
